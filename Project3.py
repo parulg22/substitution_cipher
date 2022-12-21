@@ -157,7 +157,7 @@ def main():
 
 
 main()
-#/Users/pg/cselements/gettysburg.txt
+
 
 
 
